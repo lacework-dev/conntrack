@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/lacework/conntrack"
+	"github.com/lacework-dev/conntrack"
 )
 
 func main() {
